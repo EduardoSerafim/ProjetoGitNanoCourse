@@ -1,5 +1,2 @@
-Nossa primeira alteração nesse arquivo!!
+blablablablablabla
 
-uma linha qualquer no meio do arquivo (inserido no master)
-
-Corrigido o bug deste arquivo
